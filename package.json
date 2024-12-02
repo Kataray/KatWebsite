@@ -1,9 +1,9 @@
 {
-  "name": "kat-portfolio",
+  "name": "kat-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://katarinamantay.github.io/KatPortfolio/",
+  "homepage": "https://katarinamantay.github.io/KatWebsite/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
