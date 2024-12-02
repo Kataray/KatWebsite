@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KatarinaMantay.github.io/",
+  "homepage": "https://KatarinaMantay.github.io/KatPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
