@@ -1,7 +1,8 @@
 import React from "react";
 import styles from "./Hero.module.css";
-// Import the hero image directly
+
 import heroImage from "../../assets/hero/kat.png";
+
 
 export const Hero = () => {
     return (
