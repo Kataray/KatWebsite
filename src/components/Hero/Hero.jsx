@@ -16,7 +16,7 @@ export const Hero = () => {
                     Check out my GitHub or feel free to reach out!
 
                 </p>
-                <a href="https://github.com/KatarinaMantay" className={styles.contactBtn}>
+                <a href="https://github.com/Kataray" className={styles.contactBtn}>
                     Kat's Github
                 </a>
             </div>

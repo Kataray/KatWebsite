@@ -17,7 +17,7 @@ export const Contact = () => {
         <ul className={styles.links}>
           <li className={styles.link}>
             <img src={emailIcon} alt="Email icon" />
-            <a href="katarinamantay@gmail.com">katarinamantay@gmail.com</a>
+            <a href="katarina@kataray.dev">katarina@kataray.dev</a>
           </li>
           <li className={styles.link}>
             <img src={linkedinIcon} alt="LinkedIn icon" />
@@ -25,7 +25,7 @@ export const Contact = () => {
           </li>
           <li className={styles.link}>
             <img src={githubIcon} alt="Github icon" />
-            <a href="https://github.com/KatarinaMantay">github.com/KatarinaMantay</a>
+            <a href="https://github.com/Kataray">github.com/Kataray</a>
           </li>
         </ul>
       </footer>
